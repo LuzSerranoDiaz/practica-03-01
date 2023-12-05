@@ -53,14 +53,28 @@ Utilizando este plugin accedemos a nuestro dominio y realizamos los siguientes p
 3. Se configura el uso de Webhooks para hacer pulls automaticos
 ![gitPull](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/741fc063-da5d-4f57-8a66-858498fb9865)
 
-4. Se configura el valor de DocumentRoot, plesk no me deja acceder más por alguna razón así que no tengo captura de pantalla, disculpa por las molestias.
+4. Se crea una tabla en phpMyAdmin
+![crearTabla](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/ab0ae523-2fe8-4d70-9bcf-6b3f291ae637)
 
-5. Se configura las deploy actions para ejecutar comandos en el servicio tras cada pull
+5. Se configura el valor de DocumentRoot
+![hostname](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/f80c146a-c5cb-4052-88d2-01e85bafc5ae)
+
+6. Se configura las deploy actions para ejecutar comandos en el servicio tras cada pull
 ![repobash](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/cf3a2852-d958-4dce-bb50-7008e497eadb)
+
+
+![appFunciona](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/71a7b514-603d-4439-8659-4af8fb06d63c)
+
 
 ## Despliegue App por FTP
 
 1. Se crea la base de datos MySQL
 ![ftpDB](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/4f5ede0e-13d0-4422-b602-58fbd0550ef4)
 
-A partir de aquí he sido incapaz de completar el proyecto ya qué no era capaz de conectarme a traves de FileZila, he probado muchas opciones y he estado horas intentandolo y soy incapaz, disculpa las nolestias.
+2. Se suben los archivos de la aplicacion, modificados de antemano para la base de datos creada, por fileZila
+![subir](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/6ae3cf4d-7c33-4db7-a444-6baaa53f1af1)
+
+3. Se crea una tabla en phpMyAdmin
+![crearTabla](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/ab0ae523-2fe8-4d70-9bcf-6b3f291ae637)
+
+![appFunciona](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/7bbc3988-355c-4d1d-8bd4-d7d24faa94a7)
