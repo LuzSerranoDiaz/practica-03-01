@@ -42,6 +42,10 @@ Utilizando este plugin accedemos a nuestro dominio y realizamos los siguientes p
 
 ![WPSecurity](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/590b1155-c73e-46f8-a9cf-d37523555170)
 
+
+![appFunciona](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/f6eadb9e-d336-47f2-b88f-24576a784f3c)
+
+
 ## Despliegue App git
 
 1. Se crea una base de datos y un usuario con permisos sobre la misma
