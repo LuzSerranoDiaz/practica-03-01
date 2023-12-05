@@ -58,6 +58,7 @@ Utilizando este plugin accedemos a nuestro dominio y realizamos los siguientes p
 ![gitPull](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/741fc063-da5d-4f57-8a66-858498fb9865)
 
 4. Se crea una tabla en phpMyAdmin
+
 ![crearTabla](https://github.com/LuzSerranoDiaz/practica-03-01/assets/125549381/ab0ae523-2fe8-4d70-9bcf-6b3f291ae637)
 
 5. Se configura el valor de DocumentRoot
